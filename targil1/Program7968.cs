@@ -16,7 +16,7 @@ namespace targil0
         {
             Console.WriteLine("Enter your name: ");
             string user = Console.ReadLine();
-            Console.WriteLine(user, ", welcome to my first console application");
+            Console.WriteLine(user+ ", welcome to my first console application");
         }
     }
 }
